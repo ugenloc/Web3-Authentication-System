@@ -26,8 +26,11 @@ Soon as your sever is created click on view to see your sever url and applicatio
 ### 5. Copy and paste the sever url and app id
 Paste your sever url and app id as value to the severUrl and appId variable inside the main.js file.
 
->>>const serverUrl = "https://xxxxx/server";
->>>const appId = "YOUR_APP_ID";
->>>Moralis.start({ serverUrl, appId });
+>>> const serverUrl = "https://xxxxx/server";
+
+>>> const appId = "YOUR_APP_ID";
+
+
+
 
 
