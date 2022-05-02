@@ -1,6 +1,6 @@
 /* Moralis init code */
-const serverUrl = "https://zyhamndscyf8.usemoralis.com:2053/server";
-const appId = "7Cp0EIGcFW80a0zMJE9wSIumedw1k2XXpfxMBmzG";
+const serverUrl = "";
+const appId = "";
 Moralis.start({ serverUrl, appId });
 
 /* Authentication code */
